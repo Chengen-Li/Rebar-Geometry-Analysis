@@ -98,8 +98,6 @@ Rebar-Geometry-Analysis/
 | `batch_predict.py` | Batch inference utility |
 | `advanced_lbr.py` | Utility functions for rebar geometry analysis |
 
-> Note: Some filenames retain the original `2d3d` naming from earlier development stages. In the paper, the task is formally defined as selection between planar and depth-guided measurement strategies.
-
 ---
 
 ## Installation
