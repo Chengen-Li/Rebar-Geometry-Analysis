@@ -1,4 +1,4 @@
-# Rebar Geometry Analysis — MoMS for Monocular Rebar Spacing Inspection
+# # A Mixture of Measurement Strategies Framework for Monocular Mobile Rebar Spacing Inspection
 
 Official implementation of:
 
